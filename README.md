@@ -2,7 +2,7 @@
 ## https://docs.google.com/document/d/1rdlE2Tcic01aN6Hacjn0FQvlNaUlESEEQ9xw32araHA/edit?usp=sharing
 
 # Pitch Deck Presentation:
-https://www.canva.com/design/DAGrGSwpVB0/kI3yTVdmD4-KBgpPgNUU0g/edit?utm_content=DAGrGSwpVB0&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAGq-rRCuXI/HKpnF3kQudmelnDlvm_9qQ/edit?ui=eyJEIjp7IlAiOnsiQiI6ZmFsc2V9fX0
 
 # Decentralized Disaster Relief Fund DAO: Technical Documentation
 
