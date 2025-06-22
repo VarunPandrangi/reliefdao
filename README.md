@@ -1,3 +1,6 @@
+#Detailed and full Decentralized Disaster Relief Fund DAO: Technical Documentation
+## https://docs.google.com/document/d/1rdlE2Tcic01aN6Hacjn0FQvlNaUlESEEQ9xw32araHA/edit?usp=sharing
+
 # Decentralized Disaster Relief Fund DAO: Technical Documentation
 
 ## 1.0 Introduction
